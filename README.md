@@ -3,7 +3,7 @@
 
 Cria assinatura buscando dados do usuario no AD e salvando no outlook com opcao de bloqueio/desbloqueio de edição.
 
-![](../header.png)
+![](../4.png)
 
 ## Instalação
 
