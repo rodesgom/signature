@@ -20,5 +20,5 @@ edit Signature.exe
 
 ## Meta
 
-Trabalhar com acesso de layout de assinaturas por um "servidor".
+Trabalhar com acesso de layout de assinaturas por um "servidor" e auto executar com data progamada para atualizar dados cadastrais.
 
