@@ -3,7 +3,7 @@
 
 Cria assinatura buscando dados do usuario no AD e salvando no outlook com opcao de bloqueio/desbloqueio de edição.
 
-![](../4.png)
+![](https://github.com/rodesgom/signature/blob/master/4.png)
 
 ## Instalação
 
